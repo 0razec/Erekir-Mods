@@ -1,0 +1,29 @@
+type: radar
+name: "Kizrak's Radar"
+description: So much Radar!
+details: See everything.
+size: 3
+health: 600
+liquidCapacity: 40
+consumes: {
+  power: 6.6
+  liquid: {
+    liquid: water
+    amount: 0.3
+    optional: false
+    booster: false
+  }
+}
+requirements: [
+  beryllium/50
+  silicon/90
+  tungsten/60
+  surge-alloy/150
+]
+research: radar
+
+category: logic
+
+fogRadius: 200
+
+rotateSpeed: 0.2

@@ -1,0 +1,14 @@
+type:BufferedItemBridge
+name:duct bridge conveyor
+speed:50
+bufferCapacity:20
+health:120
+fadeIn:false
+moveArrows:false
+arrowSpacing:4
+range:5
+requirements: [
+  beryllium/25
+  graphite/15
+]
+research:duct 

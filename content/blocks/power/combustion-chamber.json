@@ -1,0 +1,27 @@
+{
+ "name": "Combustion Chamber",
+"description": "Converts graphite into a small amount of energy",
+"details": "Author: Azhurniy Baklan \n Mod: Erekir-Utilities",
+	"size": 3,
+	"hasLiquids": false,
+	"powerProduction": 3,
+	"itemDuration": 180,
+	"itemCapacity": 15,
+	"hasItems": true,
+	"consumes": {
+		"items": {
+			"items": [
+				"graphite/2"
+			]
+		}
+	},
+	"requirements": [
+		"beryllium/80",
+		"silicon/60",
+		"tungsten/50",
+        "oxide/10"
+	],
+	"research": "turbine-condenser",
+	"category": "power"
+}
+
