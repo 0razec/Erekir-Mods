@@ -46,8 +46,8 @@ Este repositório está sob a licença GPL V.3. Seja ético e dê os devidos cr�
 8. Este projeto é fornecido sem garantia.
 9. O autor ou a licença do software não podem ser responsabilizados por quaisquer danos infligidos pelo mesmo.
 
-
-### { EREKIR MODS } [Version 1.0.0] - [02/02/24](ENGLISH)
+---
+### { EREKIR MODS } [Version 1.0.0] - [02/02/24] (ENGLISH)
 
 A collection of Erekir Mods in one Mod.
 
@@ -94,27 +94,27 @@ This repository is under the GPL V.3 license. Be ethical and give proper credit 
 9. The author or the software license cannot be held liable for any damages inflicted by it.
 
 
-###Changelog[v1.0.0]
-
----
-
+## Changelog[v1.0.0]
 # Azhurniy Baklan - Erekir Utilities
 - [Erekir Utilities](https://github.com/AzhurniyBaklan/Erekir-Utilities) por Azhurniy Baklan
   - Discord: @cancerguy
+
 **Alterações Feitas(Portuguese):**
 - Adicionado Nome, descrição e detalhes. [✓]
 - Alterado Recipe (tungsten/50, oxide/10). [✓]
 - Geração de energia(180). [✓]
 - Colocar Versão Br [✓]
+
 **Changes Made(Inglês):**
 - Added Name, description, and details. [✓]
 - Changed Recipe (tungsten/50, oxide/10). [✓]
 - Energy generation (180). [✓]
 - Added Br version [✓]
-
+---
 # Abaines Kizraks - Kizraks Radar
 - [Kizrak Radar](https://github.com/abaines/Kizraks-Radar) por abaines
   - Discord: @kizrak
+
 **Alterações Feitas(Portuguese):**
 - Alterado Nome, descrição e detalhes. [✓]
 - Alterado Recipe (beryllium/50, silicon/90, tungsten/60, surge-alloy/150). [✓]
@@ -122,6 +122,7 @@ This repository is under the GPL V.3 license. Be ethical and give proper credit 
 - Adicionado demanda por água (18/seg) [✓]
 - Adicionado demanda por energia (396/seg) [✓]
 - Colocado Versão Br.[✓]
+
 **Changes Made(Inglês):**
 - Changed Name, description, and details. [✓]
 - Changed Recipe (beryllium/50, silicon/90, tungsten/60, surge-alloy/150). [✓]
@@ -129,15 +130,17 @@ This repository is under the GPL V.3 license. Be ethical and give proper credit 
 - Added water demand (18/sec) [✓]
 - Added energy demand (396/seg) [✓]
 - Added Br version. [✓]
-
+---
 # Adamlol_gaming - Erekir Junction
 - [Erekir Junctions](https://github.com/adamlolgaming/erekir-junctions) por adamlol_gaming
   - Discord: @adamlol_gaming
+
 **Alterações Feitas(Portuguese):**
 - Adicionar descrição e detalhes [✓]
 - Alterar cor do arrow de ponte (Verde) [✓]
 - Alterar recipes (Bridge=beryllium/25 graphite/15, Router=beryllium/4). [✓]
 - Colocar versão Br [✓]
+
 **Changes Made(Inglês):**
 - Added description and details [✓]
 - Changed bridge arrow color (Green) [✓]
